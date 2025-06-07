@@ -86,6 +86,6 @@ This project uses mocked or simplified data, focused on learning key concepts ov
 ------------------------------------------------------------------------------------------------
 ## 📣 Author
 
-ANKITA KIRAD
-www.linkedin.com/in/ankitakirad
-https://github.com/AnkitaKirad
+[ANKITA KIRAD]
+[www.linkedin.com/in/ankitakirad]
+[https://github.com/AnkitaKirad]
